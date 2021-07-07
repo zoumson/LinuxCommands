@@ -1,7 +1,7 @@
 # LinuxCommands
 
 This is a list of commands and other elements used in Linux Command Line 
-
+```
 bash – a common shell interpreter
 git – software for managing source code and files
 ls – list the contents of a folder
@@ -60,3 +60,4 @@ yast – package manager for SUSE
 pacman – package manager for Arch
 tree – show folder hierarchy visually
 man – open the manual pages (online help) for a command
+```
