@@ -79,7 +79,7 @@ man – open the manual pages (online help) for a command
 * File permissions
 * Create hard and symbolic links
 * The Linux filesystem
-* 
+
 4. Common Command-Line Tasks and Tools
 
 * Use pipes to connect commands together
