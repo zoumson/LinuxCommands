@@ -1,6 +1,6 @@
-# LinuxCommands
+# Linux Commands
 
-This is a list of commands and other elements used in Linux Command Line 
+1. This is a list of commands and other elements used in Linux Command Line 
 ```
 bash – a common shell interpreter
 git – software for managing source code and files
@@ -61,3 +61,40 @@ pacman – package manager for Arch
 tree – show folder hierarchy visually
 man – open the manual pages (online help) for a command
 ```
+
+2. Linux Environment
+* Linux virtual machine
+* Windows Subsystem for Linux on Windows 10
+* Mac
+* Linux
+* Cloud provider
+
+3. Files, Folders, and Permissions
+* Files, folders, and navigation
+* ls
+* Create and remove folders
+* Copy, move, and delete files and folders
+* Find files from the command line
+* User roles and sudo
+* File permissions
+* Create hard and symbolic links
+* The Linux filesystem
+* 
+4. Common Command-Line Tasks and Tools
+
+* Use pipes to connect commands together
+* View text files with cat, head, tail, and less
+* Search for text in files and streams with grep
+* Manipulate text with awk, sed, and sort
+* Edit text with Vim, nano
+* Working with TAR and ZIP archives
+* Output redirection
+* Exploring environment variables and PATH
+
+5. A Peek at Some More Advanced Topics
+* Find distro and kernel information
+* Find system hardware and disk information
+* Install and update software with a package manager
+
+
+
